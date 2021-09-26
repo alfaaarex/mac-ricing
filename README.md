@@ -15,3 +15,25 @@ Here goes:
 **Wait, how tf did you make the taskbar?**
 
 > I used uBar. duh. Okay so uBar is a dock replacement for macOS, which provides a taskbar and a status bar, combined into a single bar. It provides a gorgeous UI and has a easy-to-use settings pane.
+
+
+Lets get into the actual stuff!
+
+- 1. System UX
+
+> System UX isn't tweakable, but still we have a few apps which allow you to activate a few secret features. I recommend using [TinkerTool](https://www.bresink.com/osx/TinkerTool.html), since it is more popular, and is tursted by many. 
+![image](https://user-images.githubusercontent.com/78948152/134798822-e1acf7f0-ef4e-409d-a92f-7e12ee9449b4.png)
+
+- 2. Dock Icons
+
+> Ah yes, this is cool. So, you can actually use [MacTheme Installer](https://macthemes.co) to install custom dock icon packs.
+![image](https://user-images.githubusercontent.com/78948152/134799031-c1571633-30fc-46a6-bedf-ba69da269578.png)
+
+- 3. The Finderbar.
+
+> Just use BarTender, its the best app for customizing your Finderbar. NO CAP.
+![image](https://user-images.githubusercontent.com/78948152/134799134-14936f93-e845-4563-bf28-60a67655d35e.png)
+
+If you have more information to share, we'll love it. Just make changes to this file, and we'll check the commits. If it is good, we'll merge it for sure.
+
+![image](https://user-images.githubusercontent.com/78948152/134799031-c1571633-30fc-46a6-bedf-ba69da269578.png)
