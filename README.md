@@ -36,4 +36,3 @@ Lets get into the actual stuff!
 
 If you have more information to share, we'll love it. Just make changes to this file, and we'll check the commits. If it is good, we'll merge it for sure.
 
-![image](https://user-images.githubusercontent.com/78948152/134799031-c1571633-30fc-46a6-bedf-ba69da269578.png)
